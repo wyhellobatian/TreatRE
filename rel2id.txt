@@ -1,0 +1,13 @@
+<pad> 0
+Include 1
+intent 2
+Use 3
+target 4
+active 5
+utilize 6
+delivery 7
+against 8
+exploit 9
+Affiliated 10
+findin 11
+spread 12
